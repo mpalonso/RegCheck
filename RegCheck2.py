@@ -1,5 +1,6 @@
 import winreg
 """
+__name__ = "RegCheck (Python3)
 __author__ = "Mario Parra - mrb0b0t"
 __license__ = "GPL"
 __version__ = "0.2.0"
